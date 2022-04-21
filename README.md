@@ -9,6 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Author](#author) 
 
 ## Overview
 
@@ -28,3 +29,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML
 - CSS
+
+## Author
+
+- Website - [nunoazevedo.vercel.app](https://nunoazevedo.vercel.app)
+- Frontend Mentor - [@NunoAzevedo17](https://www.frontendmentor.io/profile/NunoAzevedo17)
